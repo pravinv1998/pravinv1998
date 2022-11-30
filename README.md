@@ -6,6 +6,6 @@ I'm Pravin Vargad from India. I do development in javascript frameworks like Rea
 
 Skills:  REACT /REACT NATIVE/ JS / HTML / CSS/NEXTJS/FIREBASE
 
-- 🌱 I’m currently learning MSc CS at SPPU 
+- 🌱 Master Of Computer Science From Savitribai Phule Pune University, Pune.
 - 📫 How to reach me: pravin.wargad1998@gmail.com 
 
